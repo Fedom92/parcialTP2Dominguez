@@ -22,8 +22,8 @@ sumarPorcentaje() {
 }
 
 
-console.log(caja.listaComprobantes());
-console.log(caja.ordenarRecibosPorImporte());
+console.log(recibo.listaComprobantes());
+console.log(recibo.ordenarRecibosPorImporte());
 
 
 export { recibo }
